@@ -6,32 +6,8 @@
       {
         "id": "294bd6fd5f8b3fc1",
         "type": "tabs",
-        "dimension": 32.73993808049536,
+        "dimension": 52.089783281733745,
         "children": [
-          {
-            "id": "f4c2f8ea3d10c4fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fc5d69d695230714",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "79aff08e7dee383f",
             "type": "leaf",
@@ -43,52 +19,36 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "afa42a86f6f4c222",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7498532831abe2a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Foundation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "0a3b6ad385ab50e1",
         "type": "tabs",
-        "dimension": 67.26006191950464,
+        "dimension": 47.910216718266255,
         "children": [
           {
             "id": "8ed612df418c1247",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "419f77cde46e3998",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Foundation.md",
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foundation.md",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Foundation.md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Foundation.md"
+                "file": "Introduction.md"
               }
             }
           }
@@ -215,18 +175,28 @@
       "command-palette:Mở khay lệnh": false
     }
   },
-  "active": "8ed612df418c1247",
+  "active": "79aff08e7dee383f",
   "lastOpenFiles": [
-    "dark-1.png",
-    "light.png",
+    "Introduction",
+    "Introduction/colour-main-background.svg.png",
+    "src/image/Pasted image 20240317215937.png",
+    "src/image/Pasted image 20240317215929.png",
+    "src/image/light.png",
+    "src/image",
+    "Chưa đặt tên",
+    "src",
+    "Introduction.md",
+    "Welcome.md",
     "Introduction.md",
     "Foundation.md",
+    "2024-03-17.md",
+    "Chưa đặt tên.canvas",
+    "dark-1.png",
+    "light.png",
     "light-1.png",
-    "Chưa đặt tên.md",
     "dark.png",
     "image/light.png",
     "image/Primary color.png",
-    "Welcome.md",
     "image",
     "`"
   ]
